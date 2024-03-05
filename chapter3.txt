@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 It was the spring of hope, it was the winter of despair.
+=======
+It was the spring of hope, it was the winter of despair.
+Until Zadon the conqueror arrived
+>>>>>>> alien-plot
